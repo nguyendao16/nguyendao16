@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.langchain.com/" target="_blank"> 
-    <img src="https://img.icons8.com/external-outline-fill-licha-studio/64/external-chain-user-interface-outline-fill-licha-studio.png" alt="langchain" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/64/external-link.png" alt="external link icon" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -37,18 +37,18 @@
 
 ### 📊 **My GitHub Stats | Thống kê GitHub của tôi**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyendao16&show_icons=true&theme=tokyonight" alt="Your GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendao16&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 ---
 
 ### 📫 **How to reach me | Liên hệ với tôi**
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyendao16/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:daokhoinguyen.go@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
