@@ -43,15 +43,16 @@
 
 ### 📊 **My GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyendao16&show_icons=true&theme=tokyonight" alt="Your GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendao16&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
----
-
-### 📫 **How to reach me**
-<p align="center">
   <a href="https://github.com/nguyendao16/metrics">
     <img src="https://github.com/nguyendao16/metrics/blob/main/github-metrics.svg" alt="Metrics">
   </a>
 </p>
+---
+
+### 📫 **How to reach me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/nguyendao16/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:daokhoinguyen.go@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
