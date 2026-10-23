@@ -31,7 +31,9 @@
 ### My Recent Articles
 
 <!-- ARTICLES:START -->
-Explore my notes on machine learning, computer vision and NLP on the **[technical blog](https://nguyendao16.github.io/blog/)**. Published posts will be listed here automatically if found by the workflow.
+| Article | Published |
+| :-- | --: |
+| 📄 [The most sufficient mathematical explanations about Vanishing Gradient and Exploding Gradient in RNNs](https://nguyendao16.github.io/blog/vanishing-exploding-gradients-rnn-proof/) | 2026-10-18 |
 <!-- ARTICLES:END -->
 
 <div align="right"><a href="https://nguyendao16.github.io/blog/">View all posts →</a></div>
