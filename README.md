@@ -1,58 +1,52 @@
-<p align="center">
-  <img src="https://path.to/your/banner.gif" alt="Welcome Banner">
-</p>
+<!-- GitHub Profile README — custom designed for @nguyendao16 -->
 
-<h1 align="center">Hi there</h1>
-<p align="center">
-</p>
+<div align="center">
+  <a href="https://nguyendao16.github.io/">
+    <img src="./assets/hero.svg" width="100%" alt="Hello, I'm Khoi Nguyen — AI Engineering, Computer Vision, NLP" />
+  </a>
+</div>
 
----
+### Tech Stack
 
-### 👨‍💻 **My Tech Stack**
-<p align="left">
-  <a href="https://www.python.org" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-  </a>
-  
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
+<img src="./assets/tech-stack.svg" width="100%" alt="Python, PyTorch, TensorFlow, Hugging Face, OpenCV, scikit-learn, Transformers, NumPy, Pandas, Git, Docker, Linux, GitHub Actions, Astro, LangGraph and Tailwind CSS" />
 
-  <a href="https://www.langchain.com/" target="_blank">  
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
-  </a>
+### Featured Projects
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/nguyendao16/hana-bot-langgraph"><img src="./assets/project-hana.svg" width="100%" alt="Hana AI Friend: conversational AI with voice and memory" /></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/nguyendao16/nguyendao16.github.io"><img src="./assets/project-portfolio.svg" width="100%" alt="AI CV Portfolio: personal technical portfolio and blog" /></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://nguyendao16.github.io/"><img src="./assets/project-fpt.svg" width="100%" alt="FPT Stock Forecast: publicly tracked price dashboard" /></a>
+    </td>
+  </tr>
+</table>
 
----
+<div align="right"><a href="https://github.com/nguyendao16?tab=repositories">View all repositories →</a></div>
 
-### 📊 **My GitHub Stats**
-<p align="center">
-  <a href="https://github.com/nguyendao16/metrics">
-    <img src="https://github.com/nguyendao16/metrics/blob/main/github-metrics.svg" alt="Metrics">
-  </a>
-</p>
----
+### My Recent Articles
 
-### 📫 **How to reach me**
-<p align="left">
-  <a href="https://www.linkedin.com/in/nguyendao16/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:daokhoinguyen.go@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<!-- ARTICLES:START -->
+Explore my notes on machine learning, computer vision and NLP on the **[technical blog](https://nguyendao16.github.io/blog/)**. Published posts will be listed here automatically if found by the workflow.
+<!-- ARTICLES:END -->
+
+<div align="right"><a href="https://nguyendao16.github.io/blog/">View all posts →</a></div>
+
+### My GitHub Contributions Summary
+
+<table>
+  <tr>
+    <td width="46%" align="center" valign="top"><img src="./assets/stats.svg" width="100%" alt="GitHub contributions totals and streaks" /></td>
+    <td width="54%" align="center" valign="top"><img src="./assets/contributions.svg" width="100%" alt="Contribution graph over the last year" /></td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://nguyendao16.github.io/">Portfolio & Blog</a> &nbsp;·&nbsp;
+  <a href="https://github.com/nguyendao16">GitHub</a> &nbsp;·&nbsp;
+  <a href="mailto:daokhoinguyen.go@gmail.com">Email</a>
+</div>

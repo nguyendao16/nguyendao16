@@ -1,0 +1,46 @@
+name: Update profile README cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 2 * * *' # Each day at 09:17 Asia/Bangkok (UTC+7)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Refresh cards using GitHub API
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile.py --live
+
+      - name: Validate generated SVGs and links
+        run: python -m unittest discover -s tests -v
+
+      - name: Commit if changes exist
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh profile activity and featured projects'
+            git push
+          fi
